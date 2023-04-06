@@ -1,2 +1,2 @@
 # javaprojects
-this is where all my Java Programs
+This is where all my Java Programs
